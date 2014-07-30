@@ -1,0 +1,6 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/donkey1" android:duration="200" />
+    <item android:drawable="@drawable/donkey2" android:duration="200" />
+    <item android:drawable="@drawable/donkey3" android:duration="200" />
+</animation-list>
